@@ -3,7 +3,7 @@ package rod
 import (
 	"reflect"
 
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/xyjwsj/grod/lib/proto"
 )
 
 type stateKey struct {

@@ -4,8 +4,8 @@ package main
 import (
 	"os"
 
-	"github.com/go-rod/rod"
-	"github.com/go-rod/rod/lib/proto"
+	"github.com/xyjwsj/grod"
+	"github.com/xyjwsj/grod/lib/proto"
 	"github.com/ysmood/gson"
 )
 

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-rod/rod/lib/proto"
-	"github.com/go-rod/rod/lib/utils"
+	"github.com/xyjwsj/grod/lib/proto"
+	"github.com/xyjwsj/grod/lib/utils"
 )
 
 // TryError error.
